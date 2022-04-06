@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg version="1.1" viewBox="0 0 16 16" xlinkHref="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+    <title>bug</title>
+    <desc>Created with Sketch.</desc>
+    <g fill="none" fill-rule="evenodd">
+        <g transform="translate(1 1)">
+            <rect width="14" height="14" rx="2" fill="#E5493A"/>
+            <path d="m10 7c0 1.657-1.343 3-3 3s-3-1.343-3-3 1.343-3 3-3 3 1.343 3 3" fill="#fff"/>
+        </g>
+    </g>
+</svg>
